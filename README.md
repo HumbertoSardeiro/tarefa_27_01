@@ -40,3 +40,7 @@ A placa BitDogLab, junto com o código fornecido, oferece uma maneira prática d
 3. Quando o **Botão B** (GPIO6) é pressionado, o número exibido diminui para o número anterior (circular entre 0 e 9).
 4. A matriz de LEDs é atualizada a cada vez que um botão é pressionado, e a cor dos LEDs é mantida conforme configurada.
 
+## Vídeo demonstrativo
+
+https://www.youtube.com/watch?v=AAikIDLSVko
+
